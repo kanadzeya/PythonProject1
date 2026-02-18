@@ -1,0 +1,6 @@
+[pytest]
+pythonpath = .
+testpaths = tests
+
+[pytest]
+addopts = --alluredir=reports
